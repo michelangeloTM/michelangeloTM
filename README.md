@@ -1,6 +1,5 @@
 ### ABOUT ME
-![hostilesquirrel](https://github.com/hostilesquirrel/hostilesquirrel/blob/master/malbiu.jpg s=200)
-<img src="https://github.com/hostilesquirrel/hostilesquirrel/blob/master/malbiu.jpg" width="100" height="100">
+<img align="center" src="https://github.com/hostilesquirrel/hostilesquirrel/blob/master/malbiu.jpg" width="250" height="250">
 
   Hi, my real name is <b>mike</b>, i am in love with <b>computers</b>
   I am lazy and a known procrastinator, i will open source most of my
