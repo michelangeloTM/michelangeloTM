@@ -15,5 +15,5 @@
 </p>
 
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hostileswuirrel&layout=compact&hide=html" alt="hostilesquirrel" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hostilesquirrel&layout=compact&hide=html" alt="hostilesquirrel" />
 </p>
