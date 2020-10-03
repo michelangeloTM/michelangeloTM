@@ -1,6 +1,7 @@
 ### ABOUT ME
 <img align="left" src="https://github.com/hostilesquirrel/hostilesquirrel/blob/master/malbiu.jpg" width="150" height="150">
 
+  <p align="center"> <img src="https://komarev.com/ghpvc/?username=hostilesquirrel" alt="hostilesquirrel" /> </p>
   Hi, my real name is <b>mike</b>, i am in love with <b>computers</b>
   I am lazy and a known procrastinator, i will open source most of my
   projects soon. I love you all.
