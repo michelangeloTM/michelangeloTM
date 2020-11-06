@@ -1,5 +1,5 @@
 ### ABOUT ME
-<img align="left" src="https://github.com/hostilesquirrel/hostilesquirrel/blob/master/malbiu.jpg" width="150" height="150">
+<img align="left" src="https://thumbnail.imgbin.com/13/11/8/imgbin-drawing-astronaut-illustration-astronauts-astronaut-character-illustration-wUbB3sfTv9f4cjjAC3ZNs1GvZ_t.jpg" width="150" height="150">
 
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=hostilesquirrel" alt="hostilesquirrel" /> </p>
   Hi, my real name is <b>mike</b>, i am in love with <b>computers</b>
