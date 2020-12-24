@@ -1,5 +1,5 @@
 ### ABOUT ME
-<img align="left" src="https://thumbnail.imgbin.com/13/11/8/imgbin-drawing-astronaut-illustration-astronauts-astronaut-character-illustration-wUbB3sfTv9f4cjjAC3ZNs1GvZ_t.jpg" width="150" height="150">
+<img align="left" src="https://www.pngkit.com/png/full/436-4363354_this-is-a-picture-of-an-astronaut-with.png" width="150" height="150">
 
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=hostilesquirrel" alt="hostilesquirrel" /> </p>
   Hi, my real name is <b>mike</b>, i am in love with <b>computers</b>
