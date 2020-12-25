@@ -9,10 +9,12 @@
   <a href="https://www.instagram.com/TakashiMalibu/"><img src="https://img.shields.io/badge/Instagram--_.svg?style=social&logo=instagram" alt="Instagram"></a>
   <a href="https://twitter.com/malibu_inc"><img src="https://img.shields.io/badge/Twitter--_.svg?style=social&logo=twitter" alt="Twitter"></a>
 </p>
-<p align="right">
+<p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=hostilesquirrel&show_icons=true" alt="hostilesquirrel" />
+  <hr>
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hostilesquirrel&layout=compact&hide=html" alt="hostilesquirrel" />
 </p>
 
-<p align="left">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hostilesquirrel&layout=compact&hide=html" alt="hostilesquirrel" />
-</p>
+
+
+
