@@ -1,7 +1,8 @@
 ### ABOUT ME
 <img align="left" src="https://www.pngkit.com/png/full/436-4363354_this-is-a-picture-of-an-astronaut-with.png" width="150" height="150">
 
-  <p align="right"> <img src="https://komarev.com/ghpvc/?username=hostilesquirrel" alt="hostilesquirrel" />
+  <img align="center" src="https://komarev.com/ghpvc/?username=hostilesquirrel" alt="hostilesquirrel" />
+  <p align="left">
   Hi, i am <b>mike</b>, i am in love computers ,I am lazy and a known procrastinator, i will open source most of my
   projects soon. I love you all.</p>
  
