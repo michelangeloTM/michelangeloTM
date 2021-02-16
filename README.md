@@ -3,7 +3,7 @@
 
   <img align="center" src="https://komarev.com/ghpvc/?username=hostilesquirrel" alt="hostilesquirrel" />
   <p align="left">
-  Hi, i am <b>mike</b>, i am in love computers ,I am lazy and a known procrastinator, i will open source most of my
+  Hi, i am <b>mike</b>, i am in love computers , i will open source most of my
   projects soon. I love you all.</p>
  <p align="center">
   <a href="https://www.instagram.com/TakashiMalibu/"><img src="https://img.shields.io/badge/Instagram--_.svg?style=social&logo=instagram" alt="Instagram"></a>
