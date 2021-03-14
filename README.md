@@ -3,14 +3,14 @@ I am a passionate linux user, and an open source love. I can deal with linux , w
 <p align="center">
   <img height="165px"
     src="https://github-readme-stats.vercel.app/api?username=michelangeloTM&count_private=true&show_icons=true&theme=react" /><img
-    height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michelangeloTM&layout=compact" />
+    height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michelangeloTM&layout=compact&theme=react" />
 </p>
 <details>	
   <summary><b>Social & Contacts</b></summary><br>
 <div align="center">
-[![badge](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/rudrabarad/5014864231f6045feea2d85de68c6e06/raw/rb-twitter.json)](https://twitter.com/michelangeloTM)
+[![badge](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/rudrabarad/5014864231f6045feea2d85de68c6e06/raw/rb-twitter.json)](https://twitter.com/michelangeloTM)<br>
 [![badge](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/rudrabarad/0c38789d5ee493a224f702bdbb98bb7f/raw/rb-telegram.json)](https://t.me/itsmalibu)<br>
-[![badge](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/rudrabarad/0271c6b52cf9112891991d0c06e6999a/raw/rb-github.json)](https://github.com/michelangeloTM)
+[![badge](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/rudrabarad/0271c6b52cf9112891991d0c06e6999a/raw/rb-github.json)](https://github.com/michelangeloTM)<br>
 </div>  
 </details>
 
