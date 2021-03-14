@@ -1,5 +1,5 @@
 ### Hi, I'm <a href="">Michael</a> 
-I am a passionate linux user, and an open source love. I can deal with linux , windows & cloud. I script in Python & Bash and currently learning python. Hope you find something you like. <br>
+I am a passionate linux user, and an open source love. I can deal with linux , windows & cloud. I script in Python & Bash and currently learning kotlin. Hope you find something you like. <br>
 <p align="center">
   <img height="165px"
     src="https://github-readme-stats.vercel.app/api?username=michelangeloTM&count_private=true&show_icons=true&theme=react" /><img
